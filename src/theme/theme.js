@@ -9,6 +9,7 @@ export const theLightTheme = {
   secondary: "#ffffff",
   tertiary: "#0f1419",
   buttonColor: "#0F1419",
+
   contactsimg: contactsGreen,
 };
 
